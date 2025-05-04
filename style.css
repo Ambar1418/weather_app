@@ -48,6 +48,10 @@ body {
   align-items: center;
   justify-content: center;
 }
+.search button img {
+  width: 24px;
+  height: 24px;
+}
 .weather {
   display: flex;
 }
